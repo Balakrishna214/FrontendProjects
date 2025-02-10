@@ -60,9 +60,9 @@ const App = () => {
       name: "Tailwind CSS",
     },
   ];
-
+   
   return (
-    <div className="min-h-screen bg-gray-100 p-8">
+    <div className="min-h-screen  p-8 w-full h-64 bg-gradient-to-b from-[#ced0e0] to-[#040d85]">
       <div className="max-w-6xl mx-auto">
         {/* Experiences Section */}
         <div className="mb-12">
